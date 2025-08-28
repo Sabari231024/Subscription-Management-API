@@ -14,8 +14,6 @@ This project is designed for businesses or individuals who want to manage recurr
 - **Bcrypt.js** → Password hashing for secure storage.
 - **Nodemailer** → Email notifications (reminders, confirmations, alerts).
 - **dotenv** → Environment variable management.
-- **Multer** → File upload middleware.
-- **Moment.js** → Date and time utilities.
 
 ---
 
